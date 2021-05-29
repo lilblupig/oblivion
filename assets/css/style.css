@@ -9,6 +9,31 @@ h1, h2, h3, h4, h5, h6, nav a {
     text-transform: uppercase;
 }
 
+.tracker-btn {
+    margin: 0 10px 0 0;
+    border: solid 1px #000;
+    font-family: garamond, serif;
+    text-transform: uppercase;
+}
+
+.tracker-btn:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.tracker-btn:focus {
+    box-shadow: 0 0 0 0.25rem #31201b7e;
+}
+
+.found {
+    background-color: #31201b;
+    color: #fbefd5;
+}
+
+.explored {
+    background-color: #6da18b;
+}
+
 /* Nav Bar */
 
 .nav-container {
