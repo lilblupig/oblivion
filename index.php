@@ -1,19 +1,12 @@
 <html lang="en-uk">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="keywords" content="Oblivion, Elder Scrolls, RPG, Open world, Quest tracker">
-        <meta name="description" content="Progress tracker for the Bethesda game Oblivion">
-        <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <title>Oblivion Tracker</title>
-    </head>
+    <?php
+        include "head.php";
+    ?>
 
     <body>
-        <nav>
-        </nav>
-
+        <?php
+            include "nav.php";
+        ?>
         <main>
             <section class="container">
                 <div class="row">
@@ -45,8 +38,9 @@
 
         </main>
 
-        <footer>
-        </footer>
+        <?php
+            include "footer.php";
+        ?>
 
         <!-- Scripts -->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
