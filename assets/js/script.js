@@ -9,9 +9,11 @@ function getStatus() {
     /* Loop through array:
         Find element in HTML containing array value
         Use array value to find any local storage data and add that class
-        */ 
+        */ https://stackoverflow.com/questions/9424509/how-do-i-select-a-span-containing-an-exact-text-value-using-jquery?noredirect=1&lq=1
     for (let i = 0; i < possibilities.length; i++) {
-        $(`button:contains(${possibilities[i]})`).addClass(localStorage.getItem(possibilities[i]));
+        // 
+        $("button").filter(function() {
+            return $(this).text() === possibilities[i];}).addClass(localStorage.getItem(possibilities[i]));
     }
 }
 

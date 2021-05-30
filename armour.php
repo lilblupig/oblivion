@@ -16,7 +16,7 @@
             <section class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h1>Weapons</h1>
+                        <h1>Armour</h1>
                     </div>
                     <div class="col-12">
                         <p>There are many types of armour that can be found in Oblivion, and these are split in to two major groups: light armour and heavy armour.</p>
@@ -40,7 +40,7 @@
                     </div>
                     <div id="leather-list" class="col-12">
                         <h3>Leather</h3>
-                        <p>The leather bracers are work in place of gauntlets, not in addition to</p>
+                        <p>The leather bracers are worn in place of gauntlets, not in addition to</p>
                     </div>
                     <hr>
                     <div class="col-12">

@@ -17,7 +17,7 @@ const _shortSwordsList = [
     "Rusty Iron Shortsword",
     "Iron Shortsword ",
     "Fine Iron Shortsword",
-    "Steel Shortsword ",
+    "Steel Shortsword",
     "Fine Steel Shortsword",
     "Silver Shortsword",
     "Dwarven Shortsword",
@@ -29,9 +29,9 @@ const _shortSwordsList = [
 
 const _longSwordsList = [
     "Rusty Iron Longsword",
-    "Iron Longsword ",
+    "Iron Longsword",
     "Fine Iron Longsword",
-    "Steel Longsword ",
+    "Steel Longsword",
     "Fine Steel Longsword",
     "Silver Longsword",
     "Dwarven Longsword",
