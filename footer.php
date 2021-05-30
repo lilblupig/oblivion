@@ -1,5 +1,6 @@
-<footer>
-  <div class="container-fluid">
+<?php
+echo
+  '<div class="container-fluid">
     <div class="row">
       <div class="col-12 col-md-6 row footer-card">
         <div class="col-12 offset-md-2 col-md-8 offset-lg-3 col-lg-6">
@@ -36,5 +37,5 @@
         </ul>
       </div>
     </div>
-  </div>
-</footer>
+  </div>'
+?>

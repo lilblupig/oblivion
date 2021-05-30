@@ -1,5 +1,6 @@
-<nav>
-  <div class="container-fluid nav-container">
+<?php
+  echo
+  '<div class="container-fluid nav-container">
     <div class="row justify-content-md-center">
       <div class="col-auto g-md-0">
         <a href="index.php" class="nav-link logo px-0 px-md-3">Oblivion Tracker</a>
@@ -21,5 +22,5 @@
         </div>
       </div>
     </div>
-  </div>
-</nav>
+  </div>'
+?>
