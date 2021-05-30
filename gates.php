@@ -21,11 +21,17 @@
                 </div>
             </section>
 
-            <section class="container pb-4">
-                <div class="row">
+            <section class="container">
+                <div class="row pb-4">
+                    <div class="col-12">
+                        <h2>Fixed Gates</h2>
+                    </div>
+                    <hr>
                     <div class="col-12">
                         <h3>Appears at the start of the game</h3>
                         <p><button class="btn tracker-btn">Gate 01</button>The gate in front of Kvatch</p>
+                    </div>
+                    <div class="col-12">
                         <h3>Appear after completing "Find The Heir"</h3>
                         <p><button class="btn tracker-btn">Gate 14</button>Due east of Leyawiin, beyond Onyx Caverns</p>
                         <p><button class="btn tracker-btn">Gate 16</button>Southeast of Leyawiin, north of Fort Blueblood</p>
@@ -39,7 +45,71 @@
                         <p><button class="btn tracker-btn">Gate 99</button>Due north of Skingrad, immediately west of Goblin Jim's Cave</p>
                     </div>
                     <div class="col-12">
+                        <h3>Appear after completing "Dagon Shrine"</h3>
+                        <p><button class="btn tracker-btn">Gate 02</button>The gate by Cheydinhal (see "Wayward Knight" quest)</p>
+                        <p><button class="btn tracker-btn">Gate 03</button>The gate by Fort Sutch (see "Attack on Fort Sutch" quest)</p>
+                        <p><button class="btn tracker-btn">Gate 04</button>The gate by Anvil</p>
+                        <p><button class="btn tracker-btn">Gate 05</button>The gate by Chorrol</p>
+                        <p><button class="btn tracker-btn">Gate 06</button>The gate by Leyawiin</p>
+                        <p><button class="btn tracker-btn">Gate 07</button>The gate by Skingrad</p>
+                        <p><button class="btn tracker-btn">Gate 08</button>The gate by Bravil</p>
+                    </div>
+                    <div class="col-12">
+                        <h3>During "Bruma Gate"</h3>
+                        <p><button class="btn tracker-btn">Gate 09</button>The gate by Bruma</p>
+                    </div>
+                    <div class="col-12">
+                        <h3>During "Great Gate"</h3>
+                        <p><button class="btn tracker-btn">Gate 100</button>The Great Gate that also appears outside Bruma</p>
+                    </div>
+                    <div class="col-12">
+                        <h2>Random Gates</h2>
+                    </div>
+                    <hr>
+                    <div class="col-12">
+                        <h3>Blackwood</h3>
+                        <p><button class="btn tracker-btn">Gate </button></p>
+                    </div>
+                    <div class="col-12">
+                        <h3>Colovian Highlands</h3>
+                        <p><button class="btn tracker-btn">Gate </button></p>
+                    </div>
+                    <div class="col-12">
+                        <h3>Gold Coast</h3>
+                        <p><button class="btn tracker-btn">Gate </button></p>
+                    </div>
+                    <div class="col-12">
+                        <h3>Great Forest</h3>
+                        <p><button class="btn tracker-btn">Gate </button></p>
+                    </div>
+                    <div class="col-12">
+                        <h3>Heartlands</h3>
+                        <p><button class="btn tracker-btn">Gate </button></p>
+                    </div>
+                    <div class="col-12">
+                        <h3>Jerall Mountains</h3>
+                        <p><button class="btn tracker-btn">Gate </button></p>
+                    </div>
+                    <div class="col-12">
+                        <h3>Nibenay Basin</h3>
+                        <p><button class="btn tracker-btn">Gate </button></p>
+                    </div>
+                    <div class="col-12">
+                        <h3>Nibenay Valley</h3>
+                        <p><button class="btn tracker-btn">Gate </button></p>
+                    </div>
+                    <div class="col-12">
+                        <h3>Valus Mountains</h3>
+                        <p><button class="btn tracker-btn">Gate </button></p>
+                    </div>
+                    <div class="col-12">
+                        <h3>West Weald</h3>
+                        <p><button class="btn tracker-btn">Gate </button></p>
+                    </div>
+                    <hr>
+                    <div class="col-12">
                         <p><button class="btn tracker-btn reset-btn">Reset Page</button>Click here to reset all items</p>
+                    </div>
                 </div>
             </section>
 
