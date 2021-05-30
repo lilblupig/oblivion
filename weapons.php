@@ -44,6 +44,36 @@
                     <div id="other-one-handed-list" class="col-12">
                         <h3>Other One-Handed</h3>
                     </div>
+                    <div id="claymores-list" class="col-12">
+                        <h3>Claymores</h3>
+                    </div>
+                    <div id="other-two-handed-list" class="col-12">
+                        <h3>Other Two-Handed</h3>
+                    </div>
+                    <div class="col-12">
+                        <h2>Blunt</h2>
+                    </div>
+                    <div id="maces-list" class="col-12">
+                        <h3>Maces</h3>
+                    </div>
+                    <div id="war-axes-list" class="col-12">
+                        <h3>War Axes</h3>
+                    </div>
+                    <div id="battle-axes-list" class="col-12">
+                        <h3>Battle Axes</h3>
+                    </div>
+                    <div id="warhammers-list" class="col-12">
+                        <h3>Warhammers</h3>
+                    </div>
+                    <div class="col-12">
+                        <h2>Marksman</h2>
+                    </div>
+                    <div id="bows-list" class="col-12">
+                        <h3>Bows</h3>
+                    </div>
+                    <div id="arrows-list" class="col-12">
+                        <h3>Arrows</h3>
+                    </div>
                     <hr>
                     <div class="col-12">
                         <p><button class="btn tracker-btn reset-btn">Reset Page</button>Click here to reset all items (clears data for <strong>all</strong> pages)</p>
