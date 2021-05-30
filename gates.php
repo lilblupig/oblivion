@@ -25,7 +25,7 @@
                 <div class="row">
                     <div class="col-12">
                         <h3>Appears at the start of the game</h3>
-                        <p><button class="btn tracker-btn found">Gate 1</button>The gate in front of Kvatch</p>
+                        <p><button class="btn tracker-btn">Gate 01</button>The gate in front of Kvatch</p>
                         <h3>Appear after completing "Find The Heir"</h3>
                         <p><button class="btn tracker-btn">Gate 14</button>Due east of Leyawiin, beyond Onyx Caverns</p>
                         <p><button class="btn tracker-btn">Gate 16</button>Southeast of Leyawiin, north of Fort Blueblood</p>
@@ -33,11 +33,13 @@
                         <p><button class="btn tracker-btn">Gate 38</button>Southwest of Kvatch, a little southeast of Garlas Agea</p>
                         <p><button class="btn tracker-btn">Gate 54</button>A little southeast of Fort Carmala</p>
                         <p><button class="btn tracker-btn">Gate 55</button>Immediately north of Inn of Ill Omen</p>
-                        <p><button class="btn tracker-btn explored">Gate 65</button>North of Bravil, a little south of Fort Variela</p>
-                        <p><button class="btn tracker-btn found">Gate 69</button>East of Bruma, northwest of Sedor</p>
+                        <p><button class="btn tracker-btn">Gate 65</button>North of Bravil, a little south of Fort Variela</p>
+                        <p><button class="btn tracker-btn">Gate 69</button>East of Bruma, northwest of Sedor</p>
                         <p><button class="btn tracker-btn">Gate 93</button>Far northwest of Skingrad, southeast of Talwinque</p>
                         <p><button class="btn tracker-btn">Gate 99</button>Due north of Skingrad, immediately west of Goblin Jim's Cave</p>
                     </div>
+                    <div class="col-12">
+                        <p><button class="btn tracker-btn reset-btn">Reset Page</button>Click here to reset all items</p>
                 </div>
             </section>
 
