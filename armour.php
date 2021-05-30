@@ -19,9 +19,8 @@
                         <h1>Weapons</h1>
                     </div>
                     <div class="col-12">
-                        <p>There are four types of physical damage that can be dealt in Oblivion: Blade, Blunt, Marksman and Hand to Hand.</p>
-                        <p>Blade and Blunt have various iterations such as one-handed or two-handed options, Marksman damage is influenced by the bow, and also by the arrows chosen.</p>
-                        <p>See below for a list of generic weapons to collect.</p>
+                        <p>There are many types of armour that can be found in Oblivion, and these are split in to two major groups: light armour and heavy armour.</p>
+                        <p>See below for a list of generic armour to collect.</p>
                     </div>
                 </div>
             </section>
@@ -29,20 +28,19 @@
             <section class="container">
                 <div class="row pb-4">
                     <div class="col-12">
-                        <h2>Blade</h2>
+                        <h2>Light Armour</h2>
                     </div>
                     <hr>
-                    <div id="daggers-list" class="col-12">
-                        <h3>Daggers</h3>
+                    <div id="rough-leather-list" class="col-12">
+                        <h3>Rough Leather</h3>
+                        <p>*Exists only in tutorial, no greaves are available</p>
                     </div>
-                    <div id="shortswords-list" class="col-12">
-                        <h3>Shortswords</h3>
+                    <div id="fur-list" class="col-12">
+                        <h3>Fur</h3>
                     </div>
-                    <div id="longswords-list" class="col-12">
-                        <h3>Longswords</h3>
-                    </div>
-                    <div id="other-one-handed-list" class="col-12">
-                        <h3>Other One-Handed</h3>
+                    <div id="leather-list" class="col-12">
+                        <h3>Leather</h3>
+                        <p>The leather bracers are work in place of gauntlets, not in addition to</p>
                     </div>
                     <hr>
                     <div class="col-12">
@@ -62,7 +60,7 @@
         <!-- Scripts -->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
         <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
-        <script src="assets/js/weapons.js"></script>
+        <script src="assets/js/armour.js"></script>
         <script src="assets/js/script.js"></script>
     </body>
 

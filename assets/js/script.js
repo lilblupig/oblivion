@@ -30,6 +30,14 @@ buttons.forEach(function(button) {
             localStorage.clear();
             $(".tracker-btn").removeClass("found");
             $(".tracker-btn").removeClass("explored");
+        } else if (classes.contains("things")) {
+            if (classes.contains("found")) { // Apply indicator classes and set value to be used for local storage key
+                $(this).removeClass("found");
+                status = "unfound";
+            } else {
+                $(this).addClass("found");
+                status = "found";
+            }
         } else if (classes.contains("found")) { // Apply indicator classes and set value to be used for local storage key
             $(this).removeClass("found");
             $(this).addClass("explored");
