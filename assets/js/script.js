@@ -1,12 +1,16 @@
+// Retrieve local storage data for previous selections
 window.onload = getStatus();
 
 function getStatus() {
-    let possibilities = $('.tracker-btn').toArray().map(button => button.innerHTML); // Get inner HTML of all elements with the class tracker-btn
-    console.log(possibilities);
+    /* Get inner HTML of all elements with the class tracker-btn and make them into an array
+        https://stackoverflow.com/questions/58222496/how-can-i-have-an-array-of-the-html-content-of-a-jquery-element */
+    let possibilities = $('.tracker-btn').toArray().map(button => button.innerHTML);
 
+    /* Loop through array:
+        Find element in HTML containing array value
+        Use array value to find any local storage data and add that class
+        */ 
     for (let i = 0; i < possibilities.length; i++) {
-        let storedStatus = localStorage.getItem(possibilities[i]);
-
         $(`button:contains(${possibilities[i]})`).addClass(localStorage.getItem(possibilities[i]));
     }
 }
