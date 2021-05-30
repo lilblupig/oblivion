@@ -16,8 +16,8 @@
         <div class="nav flex-column flex-md-row">
           <a href="weapons.php" class="nav-link quick-link">Weapons</a>
           <a href="armour.php" class="nav-link quick-link">Armour</a>
-          <a href="" class="nav-link quick-link">Settlements</a>
-          <a href="" class="nav-link quick-link">Dungeons</a>
+          <a href="" class="nav-link quick-link disabled">Settlements</a>
+          <a href="" class="nav-link quick-link disabled">Dungeons</a>
           <a href="gates.php" class="nav-link quick-link">Oblivion Gates</a>
         </div>
       </div>
