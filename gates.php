@@ -25,7 +25,7 @@
                 <div class="row">
                     <div class="col-12">
                         <h3>Appears at the start of the game</h3>
-                        <p><button class="btn tracker-btn">Gate 1</button>The gate in front of Kvatch</p>
+                        <p><button class="btn tracker-btn found">Gate 1</button>The gate in front of Kvatch</p>
                         <h3>Appear after completing "Find The Heir"</h3>
                         <p><button class="btn tracker-btn">Gate 14</button>Due east of Leyawiin, beyond Onyx Caverns</p>
                         <p><button class="btn tracker-btn">Gate 16</button>Southeast of Leyawiin, north of Fort Blueblood</p>
