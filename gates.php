@@ -108,7 +108,7 @@
                     </div>
                     <hr>
                     <div class="col-12">
-                        <p><button class="btn tracker-btn reset-btn">Reset Page</button>Click here to reset all items</p>
+                        <p><button class="btn tracker-btn reset-btn">Reset Page</button>Click here to reset all items (clears data for <strong>all</strong> pages)</p>
                     </div>
                 </div>
             </section>

@@ -13,7 +13,7 @@
       </div>
       <div class="collapse col-md-auto g-0" id="pagenavlinks">
         <div class="nav flex-column flex-md-row">
-          <a href="" class="nav-link quick-link">Weapons</a>
+          <a href="weapons.php" class="nav-link quick-link">Weapons</a>
           <a href="" class="nav-link quick-link">Armour</a>
           <a href="" class="nav-link quick-link">Settlements</a>
           <a href="" class="nav-link quick-link">Dungeons</a>
