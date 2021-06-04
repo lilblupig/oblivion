@@ -1,5 +1,6 @@
 // Retrieve local storage data for previous selections
 window.onload = getStatus();
+window.onload = getCommon();
 
 function getStatus() {
     /* Get inner HTML of all elements with the class tracker-btn and make them into an array
@@ -61,3 +62,75 @@ buttons.forEach(function(button) {
         }
     })
 })
+
+function getCommon() {
+    let findHead = document.getElementById("head");
+    findHead.innerHTML = 
+    `<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Oblivion, Elder Scrolls, RPG, Open world, Quest tracker">
+    <meta name="description" content="Progress tracker for the Bethesda game Oblivion">
+    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Oblivion Tracker</title>`;
+
+    let findNav = document.getElementById("nav");
+    findNav.innerHTML =
+    `<div class="container-fluid nav-container">
+    <div class="row justify-content-md-center">
+      <div class="col-auto g-md-0">
+        <a href="index.php" class="nav-link logo px-0 px-md-3">Oblivion Tracker</a>
+      </div>
+      <div class="col d-md-none text-end">
+        <button class="hamburger" type="button" data-bs-toggle="collapse"
+            data-bs-target="#pagenavlinks" aria-expanded="false"  aria-controls="pagenavlinks"
+            aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon page-toggler-icon"></span>
+        </button>
+      </div>
+      <div class="collapse col-md-auto g-0" id="pagenavlinks">
+        <div class="nav flex-column flex-md-row">
+          <a href="weapons.html" class="nav-link quick-link">Weapons</a>
+          <a href="armour.html" class="nav-link quick-link">Armour</a>
+          <a href="" class="nav-link quick-link disabled">Settlements</a>
+          <a href="" class="nav-link quick-link disabled">Dungeons</a>
+          <a href="gates.html" class="nav-link quick-link">Oblivion Gates</a>
+        </div>
+      </div>
+    </div>
+  </div>`;
+    
+    let findFooter = document.getElementById("footer");
+    findFooter.innerHTML = 
+    `<div class="container-fluid">
+    <div class="row">
+      <div class="col-12 col-md-6 row footer-card">
+        <div class="col-12 offset-md-2 col-md-8 offset-lg-3 col-lg-6">
+          <div>
+            Our mission - To help you keep track of your exploration of Tamriel.
+          </div>
+          <div>&nbsp;</div>
+          <div>
+              Design - Lilblupig - June 2021
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 footer-card">
+        All credit for content to:
+        <ul class="list-inline">
+          <li class="list-inline-item">
+            <a href="https://bethesda.net/en/dashboard" target="_blank" rel="noopener">Bethesda</a>
+          </li>
+          <li class="list-inline-item">
+            <a href="https://bethesda.net/en/store/product/EL4GSTPCBG01" target="_blank" rel="noopener">Oblivion</a>
+          </li>
+          <li class="list-inline-item">
+            <a href="https://en.uesp.net/wiki/Oblivion:Oblivion" target="_blank" rel="noopener">UESP</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>`
+};
