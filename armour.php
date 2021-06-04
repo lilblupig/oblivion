@@ -40,7 +40,44 @@
                     </div>
                     <div id="leather-list" class="col-12">
                         <h3>Leather</h3>
-                        <p>The leather bracers are worn in place of gauntlets, not in addition to</p>
+                        <p>*The leather bracers are worn in place of gauntlets, not in addition to</p>
+                    </div>
+                    <div id="chainmail" class="col-12">
+                        <h3>Chainmail</h3>
+                    </div>
+                    <div id="mithril" class="col-12">
+                        <h3>Mithril</h3>
+                    </div>
+                    <div id="elven" class="col-12">
+                        <h3>Elven</h3>
+                    </div>
+                    <div id="glass" class="col-12">
+                        <h3>Glass</h3>
+                    </div>
+                    <div class="col-12">
+                        <h2>Heavy Armour</h2>
+                    </div>
+                    <hr>
+                    <div id="rusty-iron" class="col-12">
+                        <h3>Rusty Iron</h3>
+                    </div>
+                    <div id="iron" class="col-12">
+                        <h3>Iron</h3>
+                    </div>
+                    <div id="steel" class="col-12">
+                        <h3>Steel</h3>
+                    </div>
+                    <div id="dwarven" class="col-12">
+                        <h3>Dwarven</h3>
+                    </div>
+                    <div id="orcish" class="col-12">
+                        <h3>Orcish</h3>
+                    </div>
+                    <div id="ebony" class="col-12">
+                        <h3>Ebony</h3>
+                    </div>
+                    <div id="daedric" class="col-12 pb-4">
+                        <h3>Daedric</h3>
                     </div>
                     <hr>
                     <div class="col-12">
