@@ -53,7 +53,6 @@ const _greatForest = {
     "56": "Northeast of Fort Chalman, northwest of Harm's Folly",
     "57": "Northeast of Belda, east of Harm's Folly",
     "58": "East of Chorrol, slightly northwest of Fort Ash",
-    
 }
 
 const _heartlands = {
@@ -72,7 +71,6 @@ const _jerallMountains = {
     "70": "Far east of Bruma and due north of Cheydinhal (a short walk west of Temple of the Ancestor Moths) ",
     "71": "A little southeast of Sedor, slightly west of Gutted Mine ",
     "72": "West of Bruma, northeast of Ninendava Ruins ",
-
 }
 
 const _nibenayBasin = {
