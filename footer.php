@@ -9,30 +9,21 @@ echo
           </div>
           <div>&nbsp;</div>
           <div>
-              Design - Lilblupig - May 2021
+              Design - Lilblupig - June 2021
           </div>
         </div>
       </div>
       <div class="col-12 col-md-6 footer-card">
-        Socials
+        All credit for content to:
         <ul class="list-inline">
           <li class="list-inline-item">
-            <a href="https://www.instagram.com/" target="_blank" rel="noopener">
-              <i class="fab fa-instagram-square px-2 socials"></i>
-              <span class="visually-hidden">Instagram</span>
-              </a>
+            <a href="https://bethesda.net/en/dashboard" target="_blank" rel="noopener">Bethesda</a>
           </li>
           <li class="list-inline-item">
-            <a href="https://www.pinterest.co.uk/" target="_blank" rel="noopener">
-              <i class="fab fa-pinterest-square px-2 socials" aria-hidden="true"></i>
-              <span class="visually-hidden">Pinterest</span>
-            </a>
+            <a href="https://bethesda.net/en/store/product/EL4GSTPCBG01" target="_blank" rel="noopener">Oblivion</a>
           </li>
           <li class="list-inline-item">
-            <a href="https://www.youtube.com/" target="_blank" rel="noopener">
-              <i class="fab fa-youtube-square px-2 socials" aria-hidden="true"></i>
-              <span class="visually-hidden">YouTube</span>
-            </a>
+            <a href="https://en.uesp.net/wiki/Oblivion:Oblivion" target="_blank" rel="noopener">UESP</a>
           </li>
         </ul>
       </div>
