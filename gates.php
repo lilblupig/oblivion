@@ -71,45 +71,35 @@
                         <h2>Random Gates</h2>
                     </div>
                     <hr>
-                    <div class="col-12">
+                    <div id="blackwood" class="col-12">
                         <h3>Blackwood</h3>
-                        <p><button class="btn tracker-btn">Gate </button></p>
                     </div>
-                    <div class="col-12">
+                    <div id="colovian-highlands" class="col-12">
                         <h3>Colovian Highlands</h3>
-                        <p><button class="btn tracker-btn">Gate </button></p>
                     </div>
-                    <div class="col-12">
+                    <div id="gold-coast" class="col-12">
                         <h3>Gold Coast</h3>
-                        <p><button class="btn tracker-btn">Gate </button></p>
                     </div>
-                    <div class="col-12">
+                    <div id="great-forest" class="col-12">
                         <h3>Great Forest</h3>
-                        <p><button class="btn tracker-btn">Gate </button></p>
                     </div>
-                    <div class="col-12">
+                    <div id="heartlands" class="col-12">
                         <h3>Heartlands</h3>
-                        <p><button class="btn tracker-btn">Gate </button></p>
                     </div>
-                    <div class="col-12">
+                    <div id="jerall-mountains" class="col-12">
                         <h3>Jerall Mountains</h3>
-                        <p><button class="btn tracker-btn">Gate </button></p>
                     </div>
-                    <div class="col-12">
+                    <div id="nibenay-basin" class="col-12">
                         <h3>Nibenay Basin</h3>
-                        <p><button class="btn tracker-btn">Gate </button></p>
                     </div>
-                    <div class="col-12">
+                    <div id="nibenay-valley" class="col-12">
                         <h3>Nibenay Valley</h3>
-                        <p><button class="btn tracker-btn">Gate </button></p>
                     </div>
-                    <div class="col-12">
+                    <div id="valus-mountains" class="col-12">
                         <h3>Valus Mountains</h3>
-                        <p><button class="btn tracker-btn">Gate </button></p>
                     </div>
-                    <div class="col-12">
+                    <div id="west-weald" class="col-12">
                         <h3>West Weald</h3>
-                        <p><button class="btn tracker-btn">Gate </button></p>
                     </div>
                     <hr>
                     <div class="col-12">
@@ -129,6 +119,7 @@
         <!-- Scripts -->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
         <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+        <script src="assets/js/gates.js"></script>
         <script src="assets/js/script.js"></script>
     </body>
 
