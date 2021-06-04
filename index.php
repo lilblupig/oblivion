@@ -28,6 +28,7 @@
                             <li>Dungeons</li>
                             <li>Oblivion Gates</li>
                         </ul>
+                        <p>As it stands at this point in time, basic lists are complete for Weapons, Armour and Gates but Settlements and Dungeons remain under construction.  I will aim to add in lists for tracking unique weapons and armour, and then move on to the remaining two categories.</p>
                     </div>
                 </div>
             </section>
@@ -36,7 +37,7 @@
                 <div class="row">
                     <div class="col-12">
                         <p>The base data for the tracker is taken from the fantastic work of the good people at <a href="https://en.uesp.net/wiki/Oblivion:Oblivion" rel="noopener" target="blank">The Unofficial Elder Scrolls Pages</a> Oblivion resource.</p>
-                        <p>The game is made by Bethesda, and all copyrights and intellectual property rights remain theirs.  You can find the <a href="https://elderscrolls.bethesda.net/en/oblivion" rel="noopener" target="blank">Oblivion homepage here</a>.</p>
+                        <p>The game is made by <a href="https://bethesda.net/en/dashboard">Bethesda</a>, and all copyrights and intellectual property rights remain theirs.  You can find the <a href="https://elderscrolls.bethesda.net/en/oblivion" rel="noopener" target="blank">Oblivion homepage here</a>.</p>
                     </div>
                 </div>
             </section>
