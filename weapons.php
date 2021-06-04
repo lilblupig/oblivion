@@ -53,6 +53,7 @@
                     <div class="col-12">
                         <h2>Blunt</h2>
                     </div>
+                    <hr>
                     <div id="maces-list" class="col-12">
                         <h3>Maces</h3>
                     </div>
@@ -68,10 +69,11 @@
                     <div class="col-12">
                         <h2>Marksman</h2>
                     </div>
+                    <hr>
                     <div id="bows-list" class="col-12">
                         <h3>Bows</h3>
                     </div>
-                    <div id="arrows-list" class="col-12">
+                    <div id="arrows-list" class="col-12 pb-4">
                         <h3>Arrows</h3>
                     </div>
                     <hr>
